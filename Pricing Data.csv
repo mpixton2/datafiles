@@ -1,0 +1,791 @@
+GC-FID GL-902,C4:0 Butyric Acid,235
+GC-FID GL-902,C6:0 Caproic Acid,235
+GC-FID GL-902,C8:0 Caprylic Acid,235
+GC-FID GL-902,C10:0 Capric Acid,235
+GC-FID GL-902,C12:0 Lauric Acid,235
+GC-FID GL-902,C13:0 Tridecylic Acid,235
+GC-FID GL-902,C14:0 Myristic Acid,235
+GC-FID GL-902,"C14:1 Myristelaidic Acid (n-5, trans)",235
+GC-FID GL-902,C14:1 Myristoleic Acid (n-5),235
+GC-FID GL-902,C15:0 Pentadecanoic Acid,235
+GC-FID GL-902,C15:1 Pentadecenoic Acid (n-5),235
+GC-FID GL-902,C16:0 Palmitic Acid,235
+GC-FID GL-902,"C16:1 Palmitelaidic Acid (n-7, trans)",235
+GC-FID GL-902,Oleic Acid,235
+GC-FID GL-902,C16:1 Palmitoleic Acid (n-7),235
+GC-FID GL-902,C17:0 Margaric Acid,235
+GC-FID GL-902,C17:1 Heptadecenoic Acid (n-7),235
+GC-FID GL-902,C18:0 Stearic Acid,235
+GC-FID GL-902,"C18:1 Elaidic Acid(n-9, trans)",235
+GC-FID GL-902,C18:1 Oleic Acid (n-9),235
+GC-FID GL-902,"C18:2 Linoelaidic Acid(n-6, trans)",235
+GC-FID GL-902,C18:2 Linoleic Acid (n-6),235
+GC-FID GL-902,C18:3 Gamma Linolenic Acid (n-6),235
+GC-FID GL-902,C18:3 Alpha Linolenic Acid (n-3),235
+GC-FID GL-902,C18:4 Octadecatetraenoic Acid (n-3),235
+GC-FID GL-902,C20:0 Arachidic Acid,235
+GC-FID GL-902,C20:1 Gondoic Acid (n-9),235
+GC-FID GL-902,C20:2 Eicosadienoic Acid (n-6),235
+GC-FID GL-902,C20:3 Homogamma Linolenic Acid (n-6),235
+GC-FID GL-902,C20:3 Eicosatrienoic Acid (n-3),235
+GC-FID GL-902,C20:4 Arachidonic Acid (n-3),235
+GC-FID GL-902,C20:4 Arachidonic Acid (n-6),235
+GC-FID GL-902,C20:5 Eicosapentaenoic Acid (n-3),235
+GC-FID GL-902,C21:0 Heneicosanoic Acid,235
+GC-FID GL-902,C21:5 Heneicosapentaenoic Acid (n-3),235
+GC-FID GL-902,C22:0 Behenic acid,235
+GC-FID GL-902,C22:1 Erucic Acid (n-9),235
+GC-FID GL-902,C22:2 Docosadienoic Acid (n-6),235
+GC-FID GL-902,C22:3 Docosadienoic Acid (n-3),235
+GC-FID GL-902,C22:4 Docosatetraenoic Acid (n-6),235
+GC-FID GL-902,C22:5 Docosapentaenoic Acid (n-6),235
+GC-FID GL-902,C22:5 Docosapentaenoic Acid (n-3),235
+GC-FID GL-902,C22:6 Docosahexenoic Acid (n-3),235
+GC-FID GL-902,C23:0 Tricosanoic Acid,235
+GC-FID GL-902,C24:0 Lignoceric Acid,235
+GC-FID GL-902,C24:1 Nervonic acid (n-9),235
+GC-FID GL-902,Total Omega 3 Fatty Acid,235
+GC-FID GL-902,Total Omega 5 Fatty Acid,235
+GC-FID GL-902,Total Omega 6 Fatty Acid,235
+GC-FID GL-902,Total Omega 7 Fatty Acid,235
+GC-FID GL-902,Total Omega 9 Fatty Acid,235
+GC-FID GL-902,Total Saturated Fatty Acids,235
+GC-FID GL-902,Total Monounsaturated Fatty Acids,235
+GC-FID GL-902,Total Polyunsaturated Fatty Acids,235
+GC-FID GL-902,Total Trans Fatty Acids,235
+GC-FID GL-902,Total Cis Fatty Acids,235
+GC-FID GL-902,Total Fatty Acids,235
+GC-FID GL-902,Total Fat as Triglycerides,235
+GC-FID GL-902,C20:5 Eicosapentaenoic Acid Triglyceride,235
+GC-FID GL-902,C22:5 Docosapentaenoic Acid Triglyceride,235
+GC-FID GL-902,C22:6 Docosahexenoic Acid Triglyceride,235
+GC-FID GL-902,Medium Chain Triglycerides,235
+GC-FID GL-902,C4:0 Butyric Acid Triglyceride,235
+GC-FID GL-902,Fat,235
+GC-FID GL-903,Docosahexaenoic Acid (DHA),150
+GC-FID GL-903,Eicosapentaenoic Acid (EPA),150
+GC-FID GL-903,Eicosapentaenoic Acid,150
+GC-FID GL-903,Docosahexaenoic Acid,150
+GC-FID GL-903,Eicosapentaenoic Acid (triglyceride),150
+GC-FID GL-903,Docosahexaenoic Acid (triglyceride),150
+GC-FID GL-903,Docosahexaenoic Acid (ethyl ester),150
+GC-FID GL-903,Eicosapentaenoic Acid (ethyl ester),150
+GC-MS/MS USP <561> (modified),Pesticides,275
+General Anaerobic Count Difco Manual/GL-414,,25
+Gram Stain GL-492,,15
+Heterotrophic Plate Count EP Purified Water/GL-391,"Barium Sulfate, Chromium (on anhydrous basis), Sodium (Na) on dried basis, Strontium (Sr), Indium (In), Iron (Fe), Iron (Fe) on dried basis, Tungsten (W), Lead (Pb), Vanadium (V), Lithium (Li), Magnesium (Mg), Magnesium (Mg) on dried basis, Zinc (Zn), Manganese (Mn), Manganese (Mn) on dried basis, Zinc (Zn) (on dried basis), Molybdenum (Mo), Chromium (Cr), Chromium (Cr) on dried basis, Aluminum (Al), Nickel (Ni), Antimony (Sb), Cobalt (Co), Mercury (Hg), Copper (Cu), Arsenic (As), Barium (Ba), Phosphorus (P), Phosphorus (P) on dried basis, Potassium (K) on dried basis, Tin (Sn), Boron (B), Boron (B) on dried basis, Potassium (K), Cadmium (Cd), Calcium (Ca), Calcium (Ca) on dried basis, Bismuth, Selenium (Se), Sodium (Na)",25
+ICP-MS AOAC 993.14/GL-500,Barium Sulfate,35
+ICP-MS AOAC 993.14/GL-500,Chromium (on anhydrous basis),35
+ICP-MS AOAC 993.14/GL-500,Sodium (Na) on dried basis,35
+ICP-MS AOAC 993.14/GL-500,Strontium (Sr),35
+ICP-MS AOAC 993.14/GL-500,Indium (In),35
+ICP-MS AOAC 993.14/GL-500,Iron (Fe),35
+ICP-MS AOAC 993.14/GL-500,Iron (Fe) on dried basis,35
+ICP-MS AOAC 993.14/GL-500,Tungsten (W),35
+ICP-MS AOAC 993.14/GL-500,Lead (Pb),35
+ICP-MS AOAC 993.14/GL-500,Vanadium (V),35
+ICP-MS AOAC 993.14/GL-500,Lithium (Li),35
+ICP-MS AOAC 993.14/GL-500,Magnesium (Mg),35
+ICP-MS AOAC 993.14/GL-500,Magnesium (Mg) on dried basis,35
+ICP-MS AOAC 993.14/GL-500,Zinc (Zn),35
+ICP-MS AOAC 993.14/GL-500,Manganese (Mn),35
+ICP-MS AOAC 993.14/GL-500,Manganese (Mn) on dried basis,35
+ICP-MS AOAC 993.14/GL-500,Zinc (Zn) (on dried basis),35
+ICP-MS AOAC 993.14/GL-500,Molybdenum (Mo),35
+ICP-MS AOAC 993.14/GL-500,Chromium (Cr),35
+ICP-MS AOAC 993.14/GL-500,Chromium (Cr) on dried basis,35
+ICP-MS AOAC 993.14/GL-500,Aluminum (Al),35
+ICP-MS AOAC 993.14/GL-500,Nickel (Ni),35
+ICP-MS AOAC 993.14/GL-500,Antimony (Sb),35
+ICP-MS AOAC 993.14/GL-500,Cobalt (Co),35
+ICP-MS AOAC 993.14/GL-500,Mercury (Hg),35
+ICP-MS AOAC 993.14/GL-500,Copper (Cu),35
+ICP-MS AOAC 993.14/GL-500,Arsenic (As),35
+ICP-MS AOAC 993.14/GL-500,Barium (Ba),35
+ICP-MS AOAC 993.14/GL-500,Phosphorus (P),35
+ICP-MS AOAC 993.14/GL-500,Phosphorus (P) on dried basis,35
+ICP-MS AOAC 993.14/GL-500,Potassium (K) on dried basis,35
+ICP-MS AOAC 993.14/GL-500,Tin (Sn),35
+ICP-MS AOAC 993.14/GL-500,Boron (B),35
+ICP-MS AOAC 993.14/GL-500,Boron (B) on dried basis,35
+ICP-MS AOAC 993.14/GL-500,Potassium (K),35
+ICP-MS AOAC 993.14/GL-500,Cadmium (Cd),35
+ICP-MS AOAC 993.14/GL-500,Calcium (Ca),35
+ICP-MS AOAC 993.14/GL-500,Calcium (Ca) on dried basis,35
+ICP-MS AOAC 993.14/GL-500,Bismuth,35
+ICP-MS AOAC 993.14/GL-500,Selenium (Se),35
+ICP-MS AOAC 993.14/GL-500,Sodium (Na),35
+Karl Fischer USP <921>/GL-578,Water Content,50
+Lactobacillus acidophilus GL-470,,75
+LC-MS/MS Calculation,Total Vitamin B3,175
+LC-MS/MS GL-800 Ochratoxin,Ochratoxin A,100
+LC-MS/MS GL-800,Aflatoxin B1,150
+LC-MS/MS GL-800,Aflatoxin B2,150
+LC-MS/MS GL-800,Aflatoxin G1,150
+LC-MS/MS GL-800,Aflatoxin G2,150
+LC-MS/MS GL-800,Aflatoxins,150
+LC-MS/MS GL-801,Melamine,200
+LC-MS/MS GL-803,Milk Protein,250
+LC-MS/MS GL-803,Casein Protein,250
+LC-MS/MS GL-803,Pea Protein,250
+LC-MS/MS GL-803,Rice Protein,250
+LC-MS/MS GL-803,Soy Protein,250
+LC-MS/MS GL-803,Whey Protein,250
+LC-MS/MS GL-804,Cobamamide,250
+LC-MS/MS GL-804,Cobamamide (on dried basis),250
+LC-MS/MS GL-804,Cyanocobalamin (on dried basis),250
+LC-MS/MS GL-804,Vitamin B12 (as Methylcobalamin),250
+LC-MS/MS GL-804,Methylcobalamin (on dried basis),250
+LC-MS/MS GL-804,Methylcobalamin,250
+LC-MS/MS GL-804,Cyanocobalamin,250
+LC-MS/MS GL-805,Thiamine (Vitamin B1),175
+LC-MS/MS GL-805,Riboflavin (on dried basis),175
+LC-MS/MS GL-805,Vitamin B1 (as Thiamine HCl),175
+LC-MS/MS GL-805,Vitamin B3 (as Niacinamide),175
+LC-MS/MS GL-805,Vitamin B6 (as Pyridoxine Hydrochloride),175
+LC-MS/MS GL-805,Nicotinic Acid,175
+LC-MS/MS GL-805,Thiamine HCl (Vitamin B1),175
+LC-MS/MS GL-805,Niacin (as Niacinamide),175
+LC-MS/MS GL-805,Thiamine Mononitrate,175
+LC-MS/MS GL-805,Pyridoxine,175
+LC-MS/MS GL-805,Riboflavin,175
+LC-MS/MS GL-805,Pyridoxine HCI,175
+LC-MS/MS GL-805,Niacin,175
+LC-MS/MS GL-805,Niacinamide,175
+LC-MS/MS GL-805,Thiamine HCl,175
+LC-MS/MS GL-805 Pyridoxal,Pyridoxal-5’-Phosphate monohydrate,225
+LC-MS/MS GL-805 Pyridoxal,Vitamin B6 (as Pyridoxal 5'-Phosphate),225
+LC-MS/MS GL-805 Pyridoxal,Vitamin B6 (as Pyridoxal-5’-Phosphate),225
+LC-MS/MS GL-805 Pyridoxal,Pyridoxal-5’-Phosphate,225
+LC-MS/MS GL-806 125,alpha-Tocopheryl Succinate,125
+LC-MS/MS GL-806 125,alpha-Tocopherol,125
+LC-MS/MS GL-806 125,alpha-Tocopheryl Acetate,125
+LC-MS/MS GL-806 125,DL-alpha-Tocopherol Acetate,125
+LC-MS/MS GL-806 125,Retinol Palmitate,125
+LC-MS/MS GL-806 140,Retinol Acetate,140
+LC-MS/MS GL-806 160,Retinol,160
+LC-MS/MS GL-806 300,Menaquinone-4 (on dried basis),300
+LC-MS/MS GL-806 300,Phytonadioine,300
+LC-MS/MS GL-806 300,Menaquinone-4,300
+LC-MS/MS GL-806 300,Phylloquinone,300
+LC-MS/MS GL-806 300,Menaquinone-7,300
+LC-MS/MS GL-808,Total Sugars,150
+LC-MS/MS GL-808,Fructose,150
+LC-MS/MS GL-808,Glucose,150
+LC-MS/MS GL-808,Sucrose,150
+LC-MS/MS GL-808,Lactose,150
+LC-MS/MS GL-812,Glyphosate,210
+LC-MS/MS GL-813,Folic Acid (on dried basis),175
+LC-MS/MS GL-813,Folic Acid (on anhydrous basis),175
+LC-MS/MS GL-813,Biotin,175
+LC-MS/MS GL-813,Folic Acid,175
+LC-MS/MS GL-813 Folate,Folate,250
+LC-MS/MS GL-813 Methyltetrahydofolate,Ca-5-Methyltetrahydrofolate (on dried basis),300
+LC-MS/MS GL-813 Methyltetrahydofolate,Ca-5-Methyltetrahydrofolate (on anhydrous basis),300
+LC-MS/MS GL-813 Methyltetrahydofolate,5-Methyltetrahydrofolic Acid,300
+LC-MS/MS GL-813 Methyltetrahydofolate,Ca-5-Methyltetrahydrofolate,300
+LC-MS/MS GL-814,Vitamin B5 (as D-Calcium Pantothenate),175
+LC-MS/MS GL-814,Pantothenic Acid,175
+LC-MS/MS GL-814,Calcium Pantothenate,175
+LC-MS/MS GL-815,Lactose,180
+LC-MS/MS GL-816,Catechin Dimer Gallate,375
+LC-MS/MS GL-816,Catechin Trimer Gallate,375
+LC-MS/MS GL-816,EGCG Dimer-1,375
+LC-MS/MS GL-816,Catechin Trimer,375
+LC-MS/MS GL-816,EGCG Dimer-2,375
+LC-MS/MS GL-816,Catechin Tetramer,375
+LC-MS/MS GL-816,Catechin Dimer Digallate,375
+LC-MS/MS GL-816,ECG Dimer,375
+LC-MS/MS GL-816,Catechin Dimer,375
+LC-MS/MS GL-816,Catechin,375
+LC-MS/MS GL-818,Glucomannan,1500
+LC-MS/MS GL-824,Vitamin D3 (as Cholecalciferol),250
+LC-MS/MS GL-824,Cholecalciferol,250
+LC-MS/MS GL-824 Ergocalciferol,Ergocalciferol,250
+LC-MS/MS GL-824 Nutraland Method,Cholecalciferol (Nutraland Method),300
+LC-MS/MS R&D,Glutaurine,350
+Listeria 3M Petrifilm/GL-482,"Vitamin D3 (as Cholecalciferol), Cholecalciferol",35
+Listeria FDA BAM/GL-481,,35
+Listeria spp. Veriflow (AOAC 121302)/GL-485,,30
+Loss on Drying USP <731>/GL-516,Loss on Drying,20
+Loss on Drying USP <731>/GL-517,Loss on Drying,20
+Loss on Drying USP <731>/GL-519,Loss on Drying,20
+Loss on Ignition Current USP-NF,Loss on Ignition,20
+Molds AOAC 2014.05/GL-451,,20
+Molds AOAC 997.02/GL-450,,15
+Molds CMMEF/GL-391,,15
+Molds FDA BAM/GL-453,,15
+Molds USP <2021>/GL-452,,15
+Nitrogen AOAC 2001.11/GL-542,Nitrogen,35
+Nitrogen AOAC 2001.11/GL-542,Protein,35
+Nitrogen AOAC 2001.11/GL-542,Protein (on dried basis),35
+Nitrogen AOAC 2001.11/GL-542,Protein (NCF 5.94) on dried basis,35
+Nitrogen AOAC 2001.11/GL-542,Protein (NCF 6.64),35
+Nitrogen AOAC 2001.11/GL-542,Protein (NCF 7.54),35
+Nitrogen AOAC 2001.11/GL-542,Protein (NCF 6.64) on dried basis,35
+Nitrogen AOAC 992.23/GL-543,Protein,35
+Nitrogen AOAC 992.23/GL-543,Protein (on dried basis),35
+Nitrogen AOAC 992.23/GL-543,Protein (NCF 5.46),35
+Nitrogen AOAC 992.23/GL-543,Nitrogen,35
+Nitrogen Calculation,True Protein,50
+Non-Target Organism GL-359,,25
+Organoleptic GL-552,Physical Stability,50
+Organoleptic Visual/Taste Profile (GBS R&D),Organoleptic,20
+"Osmophilic Yeast CMMEF, 5th Ed",,45
+Particle Size Distribution USP <786>/GL-566,120 Mesh Residue,5
+Particle Size Distribution USP <786>/GL-566,60 Mesh Residue,5
+Particle Size Distribution USP <786>/GL-566,100 Mesh Residue,5
+Particle Size Distribution USP <786>/GL-566,80 Mesh Residue,5
+Particle Size Distribution USP <786>/GL-566,200 Mesh Residue,5
+Particle Size Distribution USP <786>/GL-566,230 Mesh Residue,5
+Particle Size Distribution USP <786>/GL-566,325 Mesh Residue,5
+Particle Size Distribution USP <786>/GL-566,40 Mesh Residue,5
+Particle Size Distribution USP <786>/GL-566,20 Mesh Residue,5
+Particle Size Distribution USP <786>/GL-566,140 Mesh Residue,5
+Particle Size Distribution USP <786>/GL-566 Pan,Mesh Pan Residue,30
+pH USP <791>/GL-563,pH,12
+Project Set Up GL-552,Project Set Up,200
+Pseudomonas aeruginosa USP <62>/GL-480,,15
+Recover Volume Calculation,Recover Volume,10
+Salmonella FDA BAM/GL-460,,30
+Salmonella Modified USP <2022>/GL-465,,25
+Salmonella USP <2022>/GL-461,,15
+Salmonella USP <62>/GL-461,,15
+Salmonella Veriflow (AOAC 011404)/GL-462,,30
+Sensory Sensory,Solution Appearance,25
+Sensory Sensory,Appearance,25
+Sensory Sensory,Color,25
+Sensory Sensory,Flavor,25
+Sensory Sensory,Odor,25
+Specific Gravity GL-575,Specific Gravity,10
+Staphylococcus aureus FDA BAM/GL-440,,15
+Staphylococcus aureus USP <2022>/GL-441,,15
+Staphylococcus aureus USP <62>/GL-441,,15
+Storage and PM Fees TBD,Storage and PM Fees,50
+Tapped Density USP <616>/GL-586,Tapped Density,25
+Target Organism GL-359,,25
+Titration Current FCC,Iron (Fe),150
+Titration Current FCC,Dextrose,150
+Titration Current FCC,Dextrose (on dried basis),150
+Titration Current USP-NF,Chloride,150
+Titration Current USP-NF,Potassium Sorbate,150
+Titration Current USP-NF,Calcium Acetate,150
+Titration Current USP-NF,Lactic Acid,150
+Titration Current USP-NF,Fumaric Acid,150
+Titration Current USP-NF,Calcium Carbonate,150
+Titration Current USP-NF,Standard,150
+Titration Current USP-NF,Potassium Citrate (on dried basis),150
+Titration Current USP-NF,Tripotassium Citrate Monohydrate,150
+Titration Current USP-NF,Leucine,150
+Titration Current USP-NF,Sodium Chloride,150
+Titration Current USP-NF,Dicalcium Phosphate,150
+Titration Current USP-NF,Dimagnesium Phosphate,150
+Titration Current USP-NF,Dipotassium Phosphate,150
+Titration Current USP-NF,Potassium Citrate,150
+Titration Current USP-NF,Potassium Iodide,150
+Titration Current USP-NF,Boric Acid,150
+Titration Current USP-NF,Dextrose Equivalent,150
+Titration Current USP-NF,Calcium Phosphate,150
+Total Solids Current USP-NF,Total Solids,75
+UPLC Calculation 100,Total Vitamin B3,100
+UPLC Calculation 125,Calcium Citrate,125
+UPLC Calculation 150,Ornithine HCl,150
+UPLC Calculation 150,Ornithine alpha-Ketoglutaric Acid,150
+UPLC Calculation 200,Betaine Nitrate (on dried basis),200
+UPLC Calculation 200,Betaine Nitrate,200
+UPLC Calculation 201,Carnitine Tartrate,200
+UPLC Calculation 202,Choline Citrate Dihydrate,200
+UPLC Calculation 203,Carnitine Fumarate,200
+UPLC Calculation 405,BHB Salts (Total),405
+UPLC GL-601,Folate,100
+UPLC GL-601,Folic Acid (on dried basis),100
+UPLC GL-601,Folic Acid,100
+UPLC GL-602 95,Pyridoxine,95
+UPLC GL-602 95,Pyridoxine HCI,95
+UPLC GL-602 95,Pyridoxine HCI (on dried basis),95
+UPLC GL-602 100,Niacin (on anhydrous basis),100
+UPLC GL-602 100,Thiamine (Vitamin B1),100
+UPLC GL-602 100,Thiamine HCl (Vitamin B1),100
+UPLC GL-602 100,Thiamine HCl (on anhydrous basis),100
+UPLC GL-602 100,Thiamine,100
+UPLC GL-602 100,Thiamine HCl,100
+UPLC GL-602 100,Thiamine Mononitrate,100
+UPLC GL-602 100,Thiamine Mononitrate (on dried basis),100
+UPLC GL-602 100,Niacin,100
+UPLC GL-602 100,Niacinamide,100
+UPLC GL-602 100,Niacinamide (on dried basis),100
+UPLC GL-602 100,Riboflavin,100
+UPLC GL-602 100,Riboflavin (on dried basis),100
+UPLC GL-602 110,Pantothenic Acid,110
+UPLC GL-602 110,Pantothenic Acid (on dried basis),110
+UPLC GL-602 110,Calcium Pantothenate,110
+UPLC GL-602 110,Calcium Pantothenate (on dried basis),110
+UPLC GL-602 150,Niacin (Inositol Hexanicotinate)(on dried basis),150
+UPLC GL-602 150,Niacin (from Inositol Hexanicotinate),150
+UPLC GL-602 200,para-Aminobenzoic Acid,200
+UPLC GL-602 250,Inositol Hexanicotinate (on anhydrous basis),250
+UPLC GL-602 250,Inositol Hexanicotinate,250
+UPLC GL-602 350,Picamilon,350
+UPLC GL-603,Caffeine,150
+UPLC GL-603 Theacrine,Theacrine,225
+UPLC GL-604 Nitrate,Nitrate,100
+UPLC GL-604,Creatine Nitrate (NO3-T),150
+UPLC GL-604,Creatine,150
+UPLC GL-604,Creatine (on dried basis),150
+UPLC GL-604,Creatine HCl,150
+UPLC GL-604,Creatine HCl (on dried basis),150
+UPLC GL-604,Creatine Monohydrate,150
+UPLC GL-604,Creatine Nitrate,150
+UPLC GL-604,Creatine Nitrate (on dried basis),150
+UPLC GL-604,Creatine Pyruvate,150
+UPLC GL-604,Creatine Pyruvate (on dried basis),150
+UPLC GL-604,Dicreatine Malate,150
+UPLC GL-604,Disodium Creatine Phosphate,150
+UPLC GL-604 Cit Nitrate,Citrulline Nitrate,200
+UPLC GL-604 COP,Creatinol-O-Phosphate,225
+UPLC GL-605 125,D-alpha-Tocopherol Succinate (on dried basis),125
+UPLC GL-605 125,alpha-Tocopheryl Acetate,125
+UPLC GL-605 125,alpha-Tocopheryl Succinate,125
+UPLC GL-605 125,alpha-Tocopherol,125
+UPLC GL-605 125,DL-alpha-Tocopherol Acetate (on dried basis),125
+UPLC GL-605 125,beta-Tocopherol,125
+UPLC GL-605 125,D-alpha-Tocopherol,125
+UPLC GL-605 125,D-alpha-Tocopherol Acetate,125
+UPLC GL-605 125,D-alpha-Tocopherol Succinate,125
+UPLC GL-605 125,delta-Tocopherol,125
+UPLC GL-605 125,DL-alpha-Tocopherol Acetate,125
+UPLC GL-605 125,DL-alpha-Tocopherol Succinate,125
+UPLC GL-605 125,gamma-Tocopherol,125
+UPLC GL-605 140,Ascorbyl Palmitate,140
+UPLC GL-605 140,Retinol Acetate,140
+UPLC GL-605 140,Retinol Palmitate,140
+UPLC GL-605 150,Cholecalciferol (on dried basis),150
+UPLC GL-605 150,Cholecalciferol,150
+UPLC GL-605 150,Ergocalciferol,150
+UPLC GL-605 150,Retinol,150
+UPLC GL-605 200,gamma-tocotrienol,200
+UPLC GL-605 200,"Tocopherols (beta-, delta-, gamma-)",200
+UPLC GL-605 200,Total Tocopherols,200
+UPLC GL-605 200,Total Tocotrienols,200
+UPLC GL-606 HCI,Creatine Ethyl Ester HCI,225
+UPLC GL-606,Creatine Ethyl Ester,270
+UPLC GL-607,Vitamin C (as Ascorbic Acid),110
+UPLC GL-607,Calcium Ascorbate,110
+UPLC GL-607,Ascorbic Acid (on dried basis),110
+UPLC GL-607,Sodium Ascorbate,110
+UPLC GL-607,Ascorbic Acid,110
+UPLC GL-608 125,Tartaric Acid,125
+UPLC GL-608 125,Tartaric Acid (on dried basis),125
+UPLC GL-608 125,Lactic Acid,125
+UPLC GL-608 125,Maleic Acid,125
+UPLC GL-608 125,Malic Acid (on dried basis),125
+UPLC GL-608 125,Citric Acid,125
+UPLC GL-608 125,Malic Acid,125
+UPLC GL-608 150,Hydroxycitric Acid,150
+UPLC GL-608 150,Hydroxycitric Acid (on dried basis),150
+UPLC GL-608 150,Citrulline,150
+UPLC GL-608 150,Citrulline Nitrate,150
+UPLC GL-608 200,Gluconate,200
+UPLC GL-608 250,N-Acetyl-L-Methionine,250
+UPLC GL-609,Biotin (on dried basis),120
+UPLC GL-609,Biotin,120
+UPLC GL-610,Identity,180
+UPLC GL-610,Methylcobalamin,180
+UPLC GL-610,Methylcobalamin (on dried basis),180
+UPLC GL-610,Methylcobalamin (on anhydrous basis),180
+UPLC GL-610,Cyanocobalamin,180
+UPLC GL-610,Cyanocobalamin (on dried basis),180
+UPLC GL-611,Total Mono Chlorogenic Acids (on dried basis),270
+UPLC GL-611,Total Mono Chlorogenic Acids,270
+UPLC GL-611,Chlorogenic Acid,270
+UPLC GL-611,Chlorogenic Acid (on dried basis),270
+UPLC GL-612 150,Cystine Dihydrochloride,150
+UPLC GL-612 150,L-Glycine,150
+UPLC GL-612 150,L-Tyrosine,150
+UPLC GL-612 150,L-Leucine,150
+UPLC GL-612 150,L-Valine,150
+UPLC GL-612 150,L-Isoleucine,150
+UPLC GL-612 150,L-Glutamine,150
+UPLC GL-612 150,L-Citrulline,150
+UPLC GL-612 150,Carnosyn Beta Alanine,150
+UPLC GL-612 150,Glutamic Acid,150
+UPLC GL-612 150,Glutamic Acid HCI,150
+UPLC GL-612 150,Glutamine,150
+UPLC GL-612 150,Glutamine (on dried basis),150
+UPLC GL-612 150,Glycine,150
+UPLC GL-612 150,Glycine (on dried basis),150
+UPLC GL-612 150,Histidine,150
+UPLC GL-612 150,Histidine (on dried basis),150
+UPLC GL-612 150,Histidine HCI Monohydrate,150
+UPLC GL-612 150,Taurine,150
+UPLC GL-612 150,Threonine,150
+UPLC GL-612 150,Isoleucine,150
+UPLC GL-612 150,Isoleucine (on dried basis),150
+UPLC GL-612 150,Isoleucine Nitrate,150
+UPLC GL-612 150,Tryptophan,150
+UPLC GL-612 150,Tyrosine,150
+UPLC GL-612 150,Tyrosine (on dried basis),150
+UPLC GL-612 150,Valine,150
+UPLC GL-612 150,Valine (on dried basis),150
+UPLC GL-612 150,Leucine,150
+UPLC GL-612 150,Leucine (on dried basis),150
+UPLC GL-612 150,Leucine Nitrate,150
+UPLC GL-612 150,Lysine,150
+UPLC GL-612 150,Lysine HCl,150
+UPLC GL-612 150,Cystine HCI,150
+UPLC GL-612 150,Methionine,150
+UPLC GL-612 150,Alanine,150
+UPLC GL-612 150,Monosodium Glutamate,150
+UPLC GL-612 150,Citrulline,150
+UPLC GL-612 150,Citrulline (on dried basis),150
+UPLC GL-612 150,Citrulline Malate,150
+UPLC GL-612 150,Citrulline Nitrate,150
+UPLC GL-612 150,Arginine,150
+UPLC GL-612 150,Arginine (on dried basis),150
+UPLC GL-612 150,Norvaline,150
+UPLC GL-612 150,Arginine Ethyl Ester,150
+UPLC GL-612 150,Arginine Ethyl Ester HCl,150
+UPLC GL-612 150,Arginine HCl,150
+UPLC GL-612 150,Ornithine,150
+UPLC GL-612 150,Arginine Nitrate,150
+UPLC GL-612 150,Ornithine (on dried basis),150
+UPLC GL-612 150,Arginine Nitrate (on dried basis),150
+UPLC GL-612 150,Ornithine HCl,150
+UPLC GL-612 150,Histidine HCl,150
+UPLC GL-612 150,Aspartic Acid,150
+UPLC GL-612 150,Aspartic Acid (on dried basis),150
+UPLC GL-612 150,Phenylalanine,150
+UPLC GL-612 150,Phenylalanine (on dried basis),150
+UPLC GL-612 150,Beta Alanine,150
+UPLC GL-612 150,Beta Alanine (on dried basis),150
+UPLC GL-612 150,Beta Alanine HCI,150
+UPLC GL-612 150,Cystine,150
+UPLC GL-612 150,Proline,150
+UPLC GL-612 150,Taurine (on dried basis),150
+UPLC GL-612 150,Lysine Monohydrate,150
+UPLC GL-612 150,Serine,150
+UPLC GL-612 175,gamma-Aminobutyric Acid,175
+UPLC GL-612 200,L-Theanine,200
+UPLC GL-612 200,Theanine (on dried basis),200
+UPLC GL-612 200,Theanine,200
+UPLC GL-612 200,BCAAs,200
+UPLC GL-612 225,HTPurity (5-Hydroxytryptophan),225
+UPLC GL-612 225,L-5 Hydroxytryptophan,225
+UPLC GL-612 225,5-Hydroxytryptophan,225
+UPLC GL-612 225,5-Hydroxytryptophan (on dried basis),225
+UPLC GL-612 235,Glucosamine Sulfate 2KCI (on dried basis),235
+UPLC GL-612 235,Glucosamine HCl (on dried basis),235
+UPLC GL-612 235,Glucosamine Sulfate Sodium,235
+UPLC GL-612 235,Glucosamine Sulfate 2NaCl,235
+UPLC GL-612 235,Glucosamine Sulfate Potassium Chloride,235
+UPLC GL-612 235,Glucosamine Sulfate Potassium (on dried basis),235
+UPLC GL-612 235,Glucosamine,235
+UPLC GL-612 235,Glucosamine HCI,235
+UPLC GL-612 235,Glucosamine Sulfate,235
+UPLC GL-612 235,Glucosamine Sulfate 2KCl,235
+UPLC GL-612 250,4-Hydroxy-L-Isoleucine,250
+UPLC GL-612 250,Agmatine,250
+UPLC GL-612 250,Agmatine Nitrate,250
+UPLC GL-612 250,Agmatine Sulfate,250
+UPLC GL-612 250,Agmatine Sulfate (on dried basis),250
+UPLC GL-613 130,L-Dopa,130
+UPLC GL-613 130,L-Dopa (on dried basis),130
+UPLC GL-613 200,Vinpocetine (on dried basis),200
+UPLC GL-613 200,N-Acetyl-L-Tyrosine (on anhydrous basis),200
+UPLC GL-613 200,Synephrine,200
+UPLC GL-613 200,Synephrine HCl,200
+UPLC GL-613 200,Tyramine,200
+UPLC GL-613 200,Vinburnine,200
+UPLC GL-613 200,Vincamine,200
+UPLC GL-613 200,Vinpocetine,200
+UPLC GL-613 200,N-Acetyl-L-Tyrosine (on dried basis),200
+UPLC GL-613 200,N-Acetyl-L-Tyrosine,200
+UPLC GL-613 225,Hordenine HCI,225
+UPLC GL-613 225,Evodiamine,225
+UPLC GL-613 250,Huperzine A,250
+UPLC GL-613 250,Huperzine A (on dried basis),250
+UPLC GL-613 250,N-Methyltyramine HCl,250
+UPLC GL-613 250,NaMethyltyramine,250
+UPLC GL-613 250,NaMethyltyramine HCI,250
+UPLC GL-613 250,R-beta-Methylphenylethylamine,250
+UPLC GL-613 275,Higenamine,275
+UPLC GL-613 275,Higenamine HCl,275
+UPLC GL-613 275,Higenamine HCI (on dried basis),275
+UPLC GL-615 150,Quercetin (on anhydrous basis),150
+UPLC GL-615 150,Quercetin Dihydrate,150
+UPLC GL-615 150,Quercetin,150
+UPLC GL-615 150,Quercetin (on dried basis),150
+UPLC GL-615 200,Rutaecarpine,200
+UPLC GL-615 200,Quercitrin,200
+UPLC GL-615 300,Rutin (on anhydrous basis),300
+UPLC GL-615 300,Hyperoside,300
+UPLC GL-615 300,Isoquercetin,300
+UPLC GL-615 300,Rutin (on dried basis),300
+UPLC GL-615 300,Rutin,300
+UPLC GL-615 350,Amentoflavone,350
+UPLC GL-616 Pterostillbene,Pterostilbene,225
+UPLC GL-616,Resveratrol (on dried basis),300
+UPLC GL-616,Resveratrol,300
+UPLC GL-617,Pyridoxal-5’-Phosphate,225
+UPLC GL-617,Pyridoxal-5’-Phosphate (on dried basis),225
+UPLC GL-617,Pyridoxal-5’-Phosphate monohydrate,225
+UPLC GL-618,Coenzyme Q10 (on anhydrous basis),240
+UPLC GL-618,Coenzyme Q10,240
+UPLC GL-619,Corosolic Acid,300
+UPLC GL-620,Calcium D-Glucarate,275
+UPLC GL-620,Calcium D-Glucarate tetrahydrate,275
+UPLC GL-620 GA,Glucaric Acid,330
+UPLC GL-621,Melatonin (on anhydrous basis),240
+UPLC GL-621,Melatonin,240
+UPLC GL-622,N-Acetyl-L-Cysteine (on dried basis),250
+UPLC GL-622,N-Acetyl-L-Glutamine,250
+UPLC GL-622,N-Acetyl-L-Cysteine,250
+UPLC GL-623,NAD,150
+UPLC GL-623,NADH,150
+UPLC GL-626,alpha-Yohimbine (on anhydrous basis),330
+UPLC GL-626,Yohimbine,330
+UPLC GL-626,Yohimbine Alkaloids,330
+UPLC GL-626,Yohimbine HCI,330
+UPLC GL-626,Ajmalicine,330
+UPLC GL-626,Ajmaline,330
+UPLC GL-626,alpha-Yohimbine,330
+UPLC GL-626,alpha-Yohimbine (on dried basis),330
+UPLC GL-626,alpha-Yohimbine HCI,330
+UPLC GL-626,Corynanthine,330
+UPLC GL-626,Yohimbine HCl Anhydrous,330
+UPLC GL-627 150,Caffeine Anhydrous,150
+UPLC GL-627 150,Theobromine,150
+UPLC GL-627 150,Theobromine (on dried basis),150
+UPLC GL-627 150,Theophylline,150
+UPLC GL-627 150,Caffeine,150
+UPLC GL-627 150,Caffeine (on dried basis),150
+UPLC GL-627 200,EGCG (on dried basis),200
+UPLC GL-627 200,Catechin,200
+UPLC GL-627 200,Catechins (Total),200
+UPLC GL-627 200,Catechins (Total) on dried basis,200
+UPLC GL-627 200,Gallocatechin (GC),200
+UPLC GL-627 200,Epicatechin (EC),200
+UPLC GL-627 200,Gallocatechin Gallate (GCG),200
+UPLC GL-627 200,Epicatechin Gallate (ECG),200
+UPLC GL-627 200,EGCG,200
+UPLC GL-627 225,Methylliberine (pH 3.00),225
+UPLC GL-627 225,Methylliberine (pH 5.50),225
+UPLC GL-627 225,Theacrine (as TeaCrine),225
+UPLC GL-627 225,Theacrine,225
+UPLC GL-627 225,Methylliberine,225
+UPLC GL-628,Leucic Acid (on dried basis),225
+UPLC GL-628,Leucic Acid (Ca salt),225
+UPLC GL-628 Normal,Leucic Acid,270
+UPLC GL-629 Dry Basis,alpha-Ketoglutaric Acid (on dried basis),150
+UPLC GL-629,alpha-Ketoglutaric Acid,180
+UPLC GL-630,Raspberry Ketone (on dried basis),270
+UPLC GL-630,Raspberry Ketone,270
+UPLC GL-631,alpha-Lipoic Acid,150
+UPLC GL-631,alpha-Lipoic Acid (on dried basis),150
+UPLC GL-631,Sodium alpha-Lipoic Acid,150
+UPLC GL-633,Forskolin (on dried basis),540
+UPLC GL-633,Forskolin,540
+UPLC GL-634,Calcium HMB Monohydrate,300
+UPLC GL-634,beta-Hydroxybutyrate (on dried basis),300
+UPLC GL-634,Sodium beta-Hydroxybutyrate,300
+UPLC GL-634,beta-Hydroxy beta-Methylbutyrate,300
+UPLC GL-634,Ca beta-Hydroxy beta-Methylbutyrate Monohydrate,300
+UPLC GL-634,Magnesium beta-Hydroxybutyrate,300
+UPLC GL-634,Calcium beta-Hydroxy beta-Methylbutyrate,300
+UPLC GL-634,Calcium beta-Hydroxybutyrate,300
+UPLC GL-634,beta-Hydroxybutyrate,300
+UPLC GL-635,Arginine,150
+UPLC GL-635,Arginine (on dried basis),150
+UPLC GL-635,alpha-Ketoglutaric Acid (on dried basis),150
+UPLC GL-635,Arginine HCl,150
+UPLC GL-635 As Is Basis,alpha-Ketoglutaric Acid,180
+UPLC GL-636,Acesulfame K,240
+UPLC GL-637,Curcumin,300
+UPLC GL-637,Curcuminoids,300
+UPLC GL-637,Curcuminoids (on dried basis),300
+UPLC GL-638,Oleuropein,360
+UPLC GL-638,Oleuropein (on dried basis),360
+UPLC GL-639,5-Methyltetrahydrofolic Acid (on dried basis),300
+UPLC GL-639,Ca-5-Methyltetrahydrofolate (on anhydrous basis),300
+UPLC GL-639,Ca-5-Methyltetrahydrofolate,300
+UPLC GL-639,5-Methyltetrahydrofolic Acid,300
+UPLC GL-639,Ca-5-Methyltetrahydrofolate (on dried basis),300
+UPLC GL-640,Total Rosavins,570
+UPLC GL-640,Total Rhodiola Glycosides,570
+UPLC GL-640,Rosarin,570
+UPLC GL-640,Rosavin,570
+UPLC GL-640,Rosin,570
+UPLC GL-640,Salidroside,570
+UPLC GL-641,Capsaicinoids,300
+UPLC GL-641,Capsaicin,300
+UPLC GL-642,Alfalfa,240
+UPLC GL-645,Choline Chloride (on dried basis),200
+UPLC GL-645,Choline (on dried basis),200
+UPLC GL-645,Choline Bitartrate (on dried basis),200
+UPLC GL-645,Choline Bitartrate (on anhydrous basis),200
+UPLC GL-645,Betaine HCI (on dried basis),200
+UPLC GL-645,L-Carnitine (as L-Carnitine Tartrate),200
+UPLC GL-645,N-Acetyl Carnitine HCl,200
+UPLC GL-645,Carnitine Tartrate,200
+UPLC GL-645,Carnitine Tartrate (on dried basis),200
+UPLC GL-645,Acetyl-L-Carnitine,200
+UPLC GL-645,Acetyl-L-Carnitine (on dried basis),200
+UPLC GL-645,Acetyl-L-Carnitine HCI,200
+UPLC GL-645,Acetyl-L-Carnitine HCI (on dried basis),200
+UPLC GL-645,Carnitine,200
+UPLC GL-645,Carnitine (on dried basis),200
+UPLC GL-645,Betaine (on anhydrous basis),200
+UPLC GL-645,Carnitine HCl,200
+UPLC GL-645,Choline,200
+UPLC GL-645,Choline Bitartrate,200
+UPLC GL-645,N-Acetyl Carnitine,200
+UPLC GL-645,Choline Chloride,200
+UPLC GL-645,Betaine,200
+UPLC GL-645,Betaine (on dried basis),200
+UPLC GL-645,Betaine HCI,200
+UPLC GL-645 DMAE,DMAE,275
+UPLC GL-645 DMAE,DMAE Bitartrate,275
+UPLC GL-645 DMAE,DMAE Bitartrate (on dried basis),275
+UPLC GL-649,Chondroitin Sulfate Calcium,250
+UPLC GL-649,Chondroitin Sulfate Sodium (on dried basis),250
+UPLC GL-649,Chondroitin Sulfate (on dried basis),250
+UPLC GL-649,Chondroitin Sulfate Sodium,250
+UPLC GL-649,Chondroitin Sulfate,250
+UPLC GL-650,Glucosamine (on dried basis),235
+UPLC GL-650,D-Glucosamine Sulfate KCI (on dried basis),235
+UPLC GL-650,Glucosamine Sulfate Potassium Chloride,235
+UPLC GL-650,Glucosamine Sulfate Potassium,235
+UPLC GL-650,Glucosamine Sulfate,235
+UPLC GL-650,Glucosamine Sulfate Sodium,235
+UPLC GL-650,D-Glucosamine Sulfate 2KCI (on dried basis),235
+UPLC GL-650,Glucosamine Sulfate 2NaCl,235
+UPLC GL-650,Glucosamine Sulfate (on dried basis),235
+UPLC GL-650,Glucosamine,235
+UPLC GL-650,Glucosamine Sulfate 2KCI (on dried basis),235
+UPLC GL-650,Glucosamine Sulfate 2KCl,235
+UPLC GL-650,Glucosamine HCI,235
+UPLC GL-650,Glucosamine HCl (on dried basis),235
+UPLC GL-650,Glucosamine Sulfate Potassium (on dried basis),235
+UPLC GL-651,Total CBD,125
+UPLC GL-651,Total THC,125
+UPLC GL-652,Cannabichromeme (CBC),125
+UPLC GL-652,Cannabichromenic acid (CBCA),125
+UPLC GL-652,Cannabicyclol (CBL),125
+UPLC GL-652,Cannabidiol (CBD),125
+UPLC GL-652,Cannabidiolic acid (CBDA),125
+UPLC GL-652,Cannabidivarin (CBDV),125
+UPLC GL-652,Cannabidivarin acid (CBDVA),125
+UPLC GL-652,Cannabigerol (CBG),125
+UPLC GL-652,Cannabigerol acid (CBGA),125
+UPLC GL-652,Cannabinol (CBN),125
+UPLC GL-652,Cannabinolic acid (CBNA),125
+UPLC GL-652,delta 8 THC (THC),125
+UPLC GL-652,delta 9 THC (THC),125
+UPLC GL-652,Tetrahydrocannabivarin (THCV),125
+UPLC GL-652,Tetrahydrocannabivarin acid (THCVA),125
+UPLC GL-652,Tetrahydrocannibinol acid (THCA),125
+UV-Vis ED289,Alpha Glucan,450
+UV-Vis ED289,Beta Glucan,450
+UV-Vis ED299 NLS-Complex-004 Poly,Polyphenols,225
+UV-Vis ED299 NLS-Complex-004,Total Saponin,450
+Viable Probiotic Count GL-470,,75
+Viscosity Brookfield DV/GL-594,Viscosity,60
+Visual Camera,Photo Documentation,25
+Water Activity AquaLab/GL-518,Water Activity,25
+Weight Variation USP <2091>,Net Weight,50
+Weight Variation USP <2091>,Gross Weight,50
+Wet ID Current FCC,Glyceryl Monostearate,100
+Wet ID Current FCC,Maltodextrin,100
+Wet ID Current FCC,Standard,100
+Wet ID Current FCC,Silicon Dioxide,100
+Wet ID Current FCC Starch,Modified Starch,150
+Wet ID Current USP-NF,Sodium (Na),100
+Wet ID Current USP-NF,Sodium Bicarbonate,100
+Wet ID Current USP-NF,Sodium Chloride,100
+Wet ID Current USP-NF,Sodium Citrate,100
+Wet ID Current USP-NF,Xanthan Gum,100
+Wet ID Current USP-NF,Guar Gum,100
+Wet ID Current USP-NF,Sulfate,100
+Wet ID Current USP-NF,Sulfite,100
+Wet ID Current USP-NF,Thiamine Mononitrate,100
+Wet ID Current USP-NF,Hypophosphite,100
+Wet ID Current USP-NF,Iodide,100
+Wet ID Current USP-NF,Iron (Fe),100
+Wet ID Current USP-NF,Iron Phosphate,100
+Wet ID Current USP-NF,Titanium Dioxide,100
+Wet ID Current USP-NF,Lactate,100
+Wet ID Current USP-NF,Lithium (Li),100
+Wet ID Current USP-NF,Calcium Carbonate,100
+Wet ID Current USP-NF,Calcium Citrate,100
+Wet ID Current USP-NF,Acacia,100
+Wet ID Current USP-NF,Magnesium (Mg),100
+Wet ID Current USP-NF,Acetate,100
+Wet ID Current USP-NF,Zinc (Zn),100
+Wet ID Current USP-NF,Magnesium Oxide,100
+Wet ID Current USP-NF,Zinc Gluconate,100
+Wet ID Current USP-NF,Magnesium Phosphate,100
+Wet ID Current USP-NF,Calcium Lactate,100
+Wet ID Current USP-NF,Zinc Oxide,100
+Wet ID Current USP-NF,Calcium Phosphate,100
+Wet ID Current USP-NF,Manganese (Mn),100
+Wet ID Current USP-NF,Carrageenan,100
+Wet ID Current USP-NF,Carbonate,100
+Wet ID Current USP-NF,Chlorate,100
+Wet ID Current USP-NF,Chloride,100
+Wet ID Current USP-NF,Chromic Chloride,100
+Wet ID Current USP-NF,Chromium Picolinate,100
+Wet ID Current USP-NF,Citrate,100
+Wet ID Current USP-NF,Aluminum (Al),100
+Wet ID Current USP-NF,Ammonium,100
+Wet ID Current USP-NF,Antimony (Sb),100
+Wet ID Current USP-NF,Nitrite,100
+Wet ID Current USP-NF,Cobalt (Co),100
+Wet ID Current USP-NF,Standard,100
+Wet ID Current USP-NF,Milk Thistle,100
+Wet ID Current USP-NF,Copper (Cu),100
+Wet ID Current USP-NF,Copper Gluconate,100
+Wet ID Current USP-NF,Corn Starch,100
+Wet ID Current USP-NF,Oxalate,100
+Wet ID Current USP-NF,Permanganate,100
+Wet ID Current USP-NF,Peroxide,100
+Wet ID Current USP-NF,Barium (Ba),100
+Wet ID Current USP-NF,Phosphate,100
+Wet ID Current USP-NF,Benzoate,100
+Wet ID Current USP-NF,Potassium (K),100
+Wet ID Current USP-NF,Potassium Bicarbonate,100
+Wet ID Current USP-NF,Potassium Phosphate,100
+Wet ID Current USP-NF,Potassium Sorbate,100
+Wet ID Current USP-NF,Bicarbonate,100
+Wet ID Current USP-NF,Bismuth,100
+Wet ID Current USP-NF,Bisulfite,100
+Wet ID Current USP-NF,Bitartrate,100
+Wet ID Current USP-NF,Borate,100
+Wet ID Current USP-NF,Pullulan,100
+Wet ID Current USP-NF,Dicalcium Phosphate,100
+Wet ID Current USP-NF,Bromide,100
+Wet ID Current USP-NF,Dipotassium Phosphate,100
+Wet ID Current USP-NF,Potassium Chloride,100
+Wet ID Current USP-NF,Disodium Phosphate,100
+Wet ID Current USP-NF,Calcium (Ca),100
+Wet ID Current USP-NF,Calcium Ascorbate,100
+Wet ID Current USP-NF,Ferric Salts,100
+Wet ID Current USP-NF,Ferrous Fumarate,100
+Wet ID Current USP-NF,Ferrous Salts,100
+Wet ID Current USP-NF,Gelatin,100
+Wet ID Current USP-NF,Silicon,100
+Wet ID Current USP-NF,Silicon Dioxide,100
+Wet ID Current USP-NF,Silver,100
+Wet ID ED287,Hyaluronic Acid,150
+Wet ID FCC Monograph,Cellulose Gum,100
+Wet ID JP Monograph,Pantethine,100
+Yeasts and Molds AOAC 2014.05/GL-451,,20
+Yeasts and Molds AOAC 997.02/GL-450,,20
+Yeasts and Molds CMMEF/GL-391,,15
+Yeasts and Molds FDA BAM/GL-453,,17
+Yeasts and Molds USP <2021>/GL-452,,17
+Yeasts and Molds USP <61>/GL-452,,15
+Yeasts AOAC 2014.05/GL-451,,20
+Yeasts AOAC 997.02/GL-450,,15
+Yeasts CMMEF/GL-391,,15
+Yeasts FDA BAM/GL-453,,15
+Yeasts USP <2021>/GL-452,,15
