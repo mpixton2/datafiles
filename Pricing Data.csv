@@ -1,4 +1,4 @@
-GC-FID GL-902,C4:0 Butyric Acid,235
+ï»¿GC-FID GL-902,C4:0 Butyric Acid,235
 GC-FID GL-902,C6:0 Caproic Acid,235
 GC-FID GL-902,C8:0 Caprylic Acid,235
 GC-FID GL-902,C10:0 Capric Acid,235
@@ -153,10 +153,10 @@ LC-MS/MS GL-805,Pyridoxine HCI,175
 LC-MS/MS GL-805,Niacin,175
 LC-MS/MS GL-805,Niacinamide,175
 LC-MS/MS GL-805,Thiamine HCl,175
-LC-MS/MS GL-805 Pyridoxal,Pyridoxal-5’-Phosphate monohydrate,225
+LC-MS/MS GL-805 Pyridoxal,Pyridoxal-5â€™-Phosphate monohydrate,225
 LC-MS/MS GL-805 Pyridoxal,Vitamin B6 (as Pyridoxal 5'-Phosphate),225
-LC-MS/MS GL-805 Pyridoxal,Vitamin B6 (as Pyridoxal-5’-Phosphate),225
-LC-MS/MS GL-805 Pyridoxal,Pyridoxal-5’-Phosphate,225
+LC-MS/MS GL-805 Pyridoxal,Vitamin B6 (as Pyridoxal-5â€™-Phosphate),225
+LC-MS/MS GL-805 Pyridoxal,Pyridoxal-5â€™-Phosphate,225
 LC-MS/MS GL-806 125,alpha-Tocopheryl Succinate,125
 LC-MS/MS GL-806 125,alpha-Tocopherol,125
 LC-MS/MS GL-806 125,alpha-Tocopheryl Acetate,125
@@ -526,9 +526,9 @@ UPLC GL-615 350,Amentoflavone,350
 UPLC GL-616 Pterostillbene,Pterostilbene,225
 UPLC GL-616,Resveratrol (on dried basis),300
 UPLC GL-616,Resveratrol,300
-UPLC GL-617,Pyridoxal-5’-Phosphate,225
-UPLC GL-617,Pyridoxal-5’-Phosphate (on dried basis),225
-UPLC GL-617,Pyridoxal-5’-Phosphate monohydrate,225
+UPLC GL-617,Pyridoxal-5â€™-Phosphate,225
+UPLC GL-617,Pyridoxal-5â€™-Phosphate (on dried basis),225
+UPLC GL-617,Pyridoxal-5â€™-Phosphate monohydrate,225
 UPLC GL-618,Coenzyme Q10 (on anhydrous basis),240
 UPLC GL-618,Coenzyme Q10,240
 UPLC GL-619,Corosolic Acid,300
